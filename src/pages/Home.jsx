@@ -114,7 +114,6 @@ export default function Home() {
             className="text-forest-400 text-xs font-bold uppercase tracking-[0.2em]"
             style={{ opacity: 0, animation: 'fadeUp 0.5s ease 0.1s forwards' }}
           >
-            GeoScape Analytics Lab · Lahore, Pakistan
           </span>
 
           <HeroHeading />
