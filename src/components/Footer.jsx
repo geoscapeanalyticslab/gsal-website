@@ -40,8 +40,8 @@ export default function Footer() {
               </div>
               <div className="flex items-center gap-2.5">
                 <Mail size={14} className="shrink-0 text-forest-400" />
-                <a href="mailto:adeel.geog@pu.edu.pk" className="hover:text-white transition-colors">
-                  adeel.geog@pu.edu.pk
+                <a href="mailto:geoscapeanalyticslab@gmail.com" className="hover:text-white transition-colors">
+                  geoscapeanalyticslab@gmail.com
                 </a>
               </div>
               <div className="flex items-center gap-2.5">
