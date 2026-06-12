@@ -8,3 +8,4 @@ call npm run deploy
 echo.
 echo ====== DONE! Site will update in 1-2 minutes ======
 pause
+start https://geoscapeanalyticslab.github.io/gsal-website/
